@@ -1,4 +1,4 @@
-# SomeWhatDeepSpaceChase
+# SomeWhat Deep Space Chase
 
-**Created by Jefferson Grigsby, Zabih Yousuf, and Thomas Peters using 
+**Created by Zabih Yousuf, Jefferson Grigsby, and Thomas Peters using 
 Luther Tychonievich's gamebox.py**
